@@ -16,7 +16,7 @@ However it can also be sarcastic (on the Internet) and means something is fake a
 
 The "Zhen" in Ding Zhen's name is exactly the same character.
 
-Therefore people begin to use "Yi Yan Ding Zhen" ("One eye Ding Zhen") for extra sarcasm, because someone said "Ding Zhen has pure eyes", and pure is "Chun Zhen" in Chinese, with the same character "Zhen".
+Therefore people begin to use "Yi Yan Ding Zhen" ("One eye Ding Zhen") for extra sarcasm, because someone said "Ding Zhen has pure eyes", and pure is "Chun Zhen" in Chinese, with the same character "Zhen" too.
 
 Now consider a YYDZ meme sample:
 ![YYDZ_sample.jpg](YYDZ_sample.jpg)
