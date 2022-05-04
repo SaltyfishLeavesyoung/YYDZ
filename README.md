@@ -8,7 +8,7 @@
 
 ## The evolution of the meme
 
-Ding Zhen is this guy: https://en.wikipedia.org/wiki/Ding_Zhen (and he is despised by most people lol).
+Ding Zhen is this guy: https://en.wikipedia.org/wiki/Ding_Zhen.
 
 "Yi Yan Zhen" ("One eye true") means something is true at first sight.
 
