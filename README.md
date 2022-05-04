@@ -4,6 +4,8 @@
 
 “一眼丁真”（pronounced as "Yi Yan Ding Zhen", literally "One Eye Ding Zhen"）is a very popular meme on Chinese social networks.
 
+欢迎大家移除其中的重复图片，以及加入新图片。
+
 ## The evolution of the meme
 
 Ding Zhen is this guy: https://en.wikipedia.org/wiki/Ding_Zhen (and he is despised by most people lol).
