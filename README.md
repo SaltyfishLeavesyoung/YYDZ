@@ -1,6 +1,6 @@
 # The YYDZ (Yi Yan Ding Zhen / One Eye Ding Zhen) dataset
 
-丁真宇宙，一眼丁真合集，目前已有两千多张图片。
+丁真宇宙，一眼丁真合集，目前已有两千多张图片。The majority of them are collected by 山风酱 on Baidu Tieba (贴吧id 436397865).
 
 “一眼丁真”（pronounced as "Yi Yan Ding Zhen", literally "One Eye Ding Zhen"）is a very popular meme on Chinese social networks.
 
