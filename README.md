@@ -31,7 +31,7 @@ Appraised as: Iodine
 
 "Appraised as" is another meme.
 
-"Iodine" is "Dian3" in Chinese, which sounds the same as "Classic" (Dian3), which is related to yet another meme ("Classic in Classic" = shitty).
+"Iodine" is "Dian3" in Chinese, which sounds the same as "Classic" (Dian3), which is related to yet another meme ("Classically classic" = shitty).
 
 So all these images are both puns and connecting various memes.
 
