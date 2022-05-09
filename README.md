@@ -6,6 +6,8 @@ This dataset is only for academic purposes. The majority of them are collected b
 
 本数据集仅供用于学术研究用途！！！
 
+TG讨论群：https://t.me/yydzyydz
+
 律师函警告！！！勿以恶小而为之！！！
 
 互联网虽为虚拟，但我国法律已有完善机制追责具体实名主体。希望广大网络用户响应国家号召，自觉共同维护清朗的网络环境。
