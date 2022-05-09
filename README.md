@@ -6,7 +6,7 @@ This dataset is only for academic purposes. The majority of them are collected b
 
 本数据集仅供用于学术研究用途！！！
 
-TG讨论群：https://t.me/yydzyydz
+刚建的TG讨论群：https://t.me/yydzyydz
 
 律师函警告！！！勿以恶小而为之！！！
 
