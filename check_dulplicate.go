@@ -95,12 +95,22 @@ func main() {
 	hasfound := false
 	for i, lst := range dups {
 		if len(lst) > 0 {
+			dups[i] = append(dups[i], &chklst[i])
+			hasfound = true
+		}
+	}
+	for i, lst := range dups {
+		if len(lst) > 0 {
 			lst = append(lst, &chklst[i])
-			fmt.Println("found dulplicate: ", lst)
 			hasfound = true
 		}
 	}
 	if hasfound {
+		for i, lst := range dups {
+			if len(lst) > 0 {
+				fmt.Println("[", i, "] 发现重复组: ", lst)
+			}
+		}
 		os.Exit(1)
 	}
 	os.Exit(0)
