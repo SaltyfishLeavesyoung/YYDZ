@@ -106,9 +106,11 @@ func main() {
 		}
 	}
 	if hasfound {
-		for i, lst := range dups {
+		j := 0
+		for _, lst := range dups {
 			if len(lst) > 0 {
-				fmt.Println("[", i, "] 发现重复组: ", lst)
+				j++
+				fmt.Println("[", j, "] 发现重复组: ", lst)
 			}
 		}
 		os.Exit(1)
