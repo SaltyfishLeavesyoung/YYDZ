@@ -99,12 +99,6 @@ func main() {
 			hasfound = true
 		}
 	}
-	for i, lst := range dups {
-		if len(lst) > 0 {
-			lst = append(lst, &chklst[i])
-			hasfound = true
-		}
-	}
 	if hasfound {
 		j := 0
 		for _, lst := range dups {
